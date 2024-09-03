@@ -6,6 +6,8 @@ module.exports = {
       sans: ['Graphik', 'sans-serif'],
       roboto: ['Roboto', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
+      playwrite: ['Playwrite CU', 'cursive'],
+      tiroBangla: ['Tiro Bangla', 'serif']
     },
     extend: { 
       colors:{ 
@@ -13,7 +15,7 @@ module.exports = {
           primaryColor:'#16325B',
           secondaryColor:'#227B94',
         }
-      }
+      },
     },
   },
   plugins: [],
